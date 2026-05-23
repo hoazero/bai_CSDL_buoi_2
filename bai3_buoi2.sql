@@ -1,3 +1,6 @@
+CREATE DATABASE bt_buoi_2_3;
+USE bt_buoi_2_3;
+
 CREATE TABLE Student (
     student_id VARCHAR(10) PRIMARY KEY,
     full_name VARCHAR(100) NOT NULL

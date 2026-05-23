@@ -1,3 +1,6 @@
+CREATE DATABASE bt_buoi_2;
+USE bt_buoi_2;
+
 CREATE TABLE Class (
     class_id VARCHAR(10) PRIMARY KEY,
     class_name VARCHAR(50) NOT NULL,
